@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\IsSameTree\IsSameTree\main.c(63): warning C4715: "newNode”: niewszystkie ścieżki kodu zwracają wartość
+  IsSameTree.vcxproj -> C:\Users\48571\source\repos\IsSameTree\x64\Debug\IsSameTree.exe
